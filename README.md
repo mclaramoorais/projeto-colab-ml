@@ -1,8 +1,8 @@
-# Projeto Colab - Machine Learning 🤖📊
+# Projeto Colab - Machine Learning 
 
 Este repositório contém um projeto de **Machine Learning desenvolvido no Google Colab**, com foco em experimentos, análise de dados e construção de modelos preditivos.
 
-## 📌 Objetivo
+##  Objetivo
 
 Explorar técnicas de Machine Learning aplicadas a dados reais ou simulados, realizando etapas como:
 
@@ -12,16 +12,16 @@ Explorar técnicas de Machine Learning aplicadas a dados reais ou simulados, rea
 - Avaliação de desempenho
 - Geração de resultados e insights
 
-## 🧠 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
 - Google Colab
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 projeto-colab-ml/
 │
@@ -31,7 +31,7 @@ projeto-colab-ml/
 └── README.md # Documentação do projeto
 
 
-## 🚀 Como executar
+##  Como executar
 
 Você pode abrir o projeto diretamente no Google Colab:
 
